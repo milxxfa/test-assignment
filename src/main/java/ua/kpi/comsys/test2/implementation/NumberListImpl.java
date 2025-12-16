@@ -24,8 +24,6 @@ import java.util.NoSuchElementException;
 import ua.kpi.comsys.test2.NumberList;
 
 /**
- * Custom implementation of INumberList interface.
- * Has to be implemented by each student independently.
  *
  * @author Bikovska Sasha IA-31
  *
